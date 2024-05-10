@@ -1,0 +1,224 @@
+/* body{
+    height: 150vh;
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-family: Inter, sans-serif;
+    overflow-x: hidden;
+}
+ 
+/* Top Bar */
+/*  
+.top-bar{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    border-bottom: 1px solid #cccccc;
+    box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
+    position: fixed;
+    z-index: 4;
+ 
+}
+.top-bar-left{
+    display: flex;
+    align-self: center;
+    margin-left: -130px;
+}
+.icon-container{
+    position: relative;
+    top: 13px;
+    margin-left: 10px;
+    justify-content: space-between;
+}
+.icon-container img{
+    margin-right: 10px;
+}
+.top-bar-right{
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: -130px;
+    font-size: 12px;
+}
+img{
+    height: 20px;
+}
+.icon{
+    height: 13px;
+    margin-top: 14px;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+  */
+/* Nav Bar */
+/* .navbar{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top:40.9px;
+    margin-top: 0px;
+    background-color: aliceblue;
+    z-index: 4;
+}
+ 
+nav{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: white;
+   
+   
+}
+.nav-logo{
+    height: 50px;
+    margin-left: 50px;
+}
+.nav-link{
+    width: 60%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+}
+.nav-link a:hover{
+    color: #C42026;
+    cursor: pointer;
+}
+  */
+/* Header */
+ 
+/* .header{
+    width: 100%;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    /* background-color: aqua; */
+/* }
+.header-image{
+   width: 83.5%;
+   height: 100%;
+   background-color: #C42026; */
+    /* background-image: url("../Assets/header-image.png");
+   background-size: ;
+   background-position: top;
+   background-repeat: no-repeat;
+}
+ 
+.header-image img{
+    position: absolute;
+    width: 85%;
+    height: auto;
+    top: 100px;
+}  */ 
+
+#LoveCareHumaninity{
+    z-index: 4;
+    margin-top: -400px;
+    width: 45%;
+    
+}
+body {
+    font-family: 'Inter', sans-serif;
+}
+#header_div{
+    font-size: 14px;
+}
+#navbar_div{
+    font-size: 14px;
+    white-space: nowrap;
+}
+#Book_Appointment_Button{
+    background-color: #17C1A3;
+    margin-right: 15px;
+}
+/* #secondSection{
+    /* background-image: url("assets/gghospital-logo.png");
+    background-size: cover;
+    background-position: center center;
+    /* background-position: center center;
+    background-color: #030d16; */
+    /* width: 100%;
+    height: 100vh; 
+    
+    z-index: 1; */
+
+#LoveCareHumaninity_button{
+text-align: center;
+margin-top: 40px;
+
+}
+#Love_Care_caption{
+    width: 300px;
+}
+
+.margin-push{
+    padding-left:40px ;
+}
+#heading_LoveCareHumanity{
+    font-size: 54px;
+    font-weight: 500;
+}
+#BookAppointment_box{
+    font-weight:500;
+}
+#form1{
+    width: 70%;
+    height: auto;
+    text-align: center;
+    
+    z-index: 5;
+}
+button.btn-custom{
+background-color: #17C1A3;
+}
+
+#form_div{
+    margin-left: 400px;
+    width: 60%;
+}
+/* #secondSection{
+    margin-top: -20px;
+} */
+
+#Our_Departments_text{
+    font-size: 35px;
+    width: 20%;
+    font-weight: 500;
+    text-align: left;
+    margin-left: 10px;
+    line-height: 0.9;
+}
+.text_color{
+    color: #17C1A3;
+}
+
+
+#doctor_select{
+    padding: 2px 60px;
+}
+#YGG_pic{
+    /* background-image: url("/assets/woman-doctor-wearing-lab-coat-with-stethoscope-isolated_1-transformed\ 1.png"); */
+    height: 300px;
+    width: 60%;
+
+
+}
+.img123{
+    width: 800px;
+}
+.Ygg_color{
+    background-color: #E8F9F6; 
+}
